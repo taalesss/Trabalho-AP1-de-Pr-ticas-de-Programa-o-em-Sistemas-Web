@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+<title>Clientes.html</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="estilo.css" />
+</head>
+<body>
+    <div id="wrap">
+<header>
+    <h1></h1>
+    <nav>
+<ul>
+    <li><a href="Inicio.html">Inicio </a></li>
+    <li><a href="#">Clientes </a></li>
+    <li><a href="Sobre.html">Sobre</a></li>
+    <li><a href="Serviços.html">Serviços </a></li>
+
+</ul>
+</nav>
+</header>
+<div id="content">
+<section>
+    <h2>Nossos Clintes:</h2>
+    <p>AAAA</p>
+    <p>BBBB</p>
+    <p>CCCC</p>
+    <p>DDDD</p>
+
+
+</section>
+<article>
+</article>
+</div>
+<div id="sidebar">
+<aside>
+</aside>
+</div>
+<footer>
+</footer>
+</div>
+</body>
+
